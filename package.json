@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "es-abstract": "^1.18.0",
-    "pdfjs-dist": "2.13.216",
+    "pdfjs-dist": "2.12.313",
     "raw-loader": "^0.5.1",
     "vue-resize-sensor": "^2.0.0"
   },
@@ -51,7 +51,7 @@
     "worker-loader": "^3.0.1"
   },
   "peerDependencies": {
-    "pdfjs-dist": "2.13.216",
+    "pdfjs-dist": "2.12.313",
     "vue": "^2.6.11"
   },
   "engines": {
